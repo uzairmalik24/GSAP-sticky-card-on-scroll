@@ -42,4 +42,4 @@ Check out my work and connect with me:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/uzairmalik24/GSAP-Sticky-Cards-n-Scroll.git
+git clone https://github.com/uzairmalik24/GSAP-Sticky-Cards-on-Scroll.git
